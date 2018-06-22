@@ -8,4 +8,4 @@ src-svn lean https://github.com/coolsnowwolf/lede/trunk/package/lean
 src-svn libs https://github.com/coolsnowwolf/lede/trunk/package/libs
 src-svn network https://github.com/coolsnowwolf/lede/trunk/package/network
 src-svn system https://github.com/coolsnowwolf/lede/trunk/package/system
-src-git themessn git://gitlab.stusta.de/stustanet/luci-theme-ssn.git
+src-git themessn https://gitlab.stusta.de/stustanet/luci-theme-ssn.git
